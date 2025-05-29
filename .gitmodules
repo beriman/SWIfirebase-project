@@ -1,0 +1,3 @@
+[submodule "SWIfirebase"]
+    path = SWIfirebase
+    url = https://github.com/beriman/SWIfirebase.git
